@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GlobalVariableEntities>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'https://main--precious-paprenjak-1b7d62.netlify.app'</initValue>
+        <name>application_domain</name>
+    </GlobalVariableEntity>
+    <defaultProfile>True</defaultProfile>
+    <description></description>
+    <name>Production</name>
+    <tag></tag>
+</GlobalVariableEntities>

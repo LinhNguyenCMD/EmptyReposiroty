@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on div_object",
+        "step 3: At Page_home click on div_object",
+        "step 4: At Page_home input on input_password",
+        "step 5: At Page_home click on input_login_button",
+        "step 6: Add visual checkpoint at Page_home"
+    ]
+}
